@@ -1,0 +1,16 @@
+body{
+  color: white;
+  padding-top:80px;
+  word-wrap:break-word;
+  background-color: rgb(1,1,1);
+}
+img{
+  height: 200px;
+}
+.well {
+  color: black;
+}
+#main-h1, #main-p {
+  color: black;
+}
+.fa-trash:before{content:'\f00d'}
